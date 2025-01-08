@@ -1,0 +1,2 @@
+"id_libro", "titulo", "autor", "año", "pag_aprox", "descripcion",
+    "tipo_novela", "trama", "personajes_principales"
